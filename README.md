@@ -14,3 +14,30 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 </div>
 
 ---
+
+## Various techs I use
+<p>
+
+</p>
+
+---
+
+## Various techs I learn formation
+<p>
+
+</p>
+
+---
+
+## Where to find me
+<p>
+
+</p>
+
+---
+
+## Github Profile Trophy
+
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=mocquaischristopher²column=8&theme=gruvbox&no-frame=true" />
+</p>
