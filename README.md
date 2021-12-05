@@ -38,6 +38,4 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 
 ## Github Profile Trophy
 
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=mocquaischristopher²column=8&theme=gruvbox&no-frame=true" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mocquaischristopher&rheme=onedark)](https://github.com/mocquaischristopher)
