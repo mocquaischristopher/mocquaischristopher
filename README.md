@@ -1,8 +1,8 @@
 # Welcome in my github page 👋
 
-Hello.
+Hello there.
 My name is Christopher, i am 34 years.
-I was a formation of CDA at Valenciennes
+i am a young developer and i was a formation of CDA at Valenciennes.
 
 
 
