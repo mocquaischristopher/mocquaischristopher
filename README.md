@@ -7,5 +7,6 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&show_icons=true&theme=graywhite" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&scount_private=true&include_all_commits=true" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocquaischristopher&layout=compact" alt="Github Stats Langues" />
 </p>
