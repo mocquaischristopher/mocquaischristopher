@@ -17,7 +17,16 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 
 ## Various techs I use
 <p>
-
+    <img src="./img/adobe.png" alt="Suite adobe">
+    <img src="./img/office.png" alt="Suite office">
+    <img src="./img/atom.png" alt="IDE atom">
+    <img src="./img/vscode.png" alt="IDE vscode">
+    <img src="./img/html5.png" alt="HTML5">
+    <img src="./img/css3.png" alt="CSS3">
+    <img src="./img/js.png" alt="JavaScript">
+    <img src="./img/mysql.png" alt="MySql">
+    <img src="./img/php.png" alt="PHP">
+    <img src="./img/sage.png" alt="Sage (compatbilité)">
 </p>
 
 ---
