@@ -31,7 +31,7 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 
 ## Where to find me
 <p>
-    <a<img src="./img/linkedin.png" alt="linkedin">https://www.linkedin.com/in/christopher-mocquais/>
+    <a href="https://www.linkedin.com/in/christopher-mocquais"><img src="./img/linkedin.png" alt="linkedin"></a>
     <a<img src="./img/twitter.png" alt="twitter">>
     <a>
 </p>
