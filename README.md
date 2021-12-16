@@ -16,8 +16,8 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 ---
 
 ## Various techs I use
+<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    
 
 
