@@ -21,10 +21,12 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-
-
-   
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+<a href="https://twitter.com/Envoy_1084"><img src=""></a>
+<a href="https://twitter.com/Envoy_1084"><img src=""></a>
+<a href="https://twitter.com/Envoy_1084"><img src=""></a> 
 
 
 ---
