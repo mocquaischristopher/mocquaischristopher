@@ -17,6 +17,7 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 
 ## Various techs I use
 <p>
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     <img src="./img/adobe.png" alt="Suite adobe">
     <img src="./img/office.png" alt="Suite office">
     <img src="./img/atom.png" alt="IDE atom">
