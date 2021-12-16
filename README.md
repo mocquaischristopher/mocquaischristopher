@@ -16,17 +16,17 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 ---
 
 ## Various techs I use
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-<a href="https://twitter.com/Envoy_1084"><img src=""></a>
-<a href="https://twitter.com/Envoy_1084"><img src=""></a>
-<a href="https://twitter.com/Envoy_1084"><img src=""></a> 
+<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
+<img src="">
+<img src="">
 
 
 ---
@@ -40,8 +40,8 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 
 ## Where to find me
 <p>
-    <a href="https://www.linkedin.com/in/christopher-mocquais" target="_blank"><img src="./img/linkedin.png" alt="linkedin"></a>
-    <a href="https://twitter.com/ChristMocquais" target="_blank"><img src="./img/twitter.png" alt="twitter"></a>
+    <a href="https://www.linkedin.com/in/christopher-mocquais" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/ChristMocquais" target="_blank"><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a href="mocquaischristopher.github.io/Site-CV/" target="_blank"><img src="./img/CV.png" alt="CV"></a>
 </p>
 
