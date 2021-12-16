@@ -16,19 +16,10 @@ i am a young developer and i was a formation of CDA at Valenciennes.
 ---
 
 ## Various techs I use
-<p>
+
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    <img src="./img/adobe.png" alt="Suite adobe">
-    <img src="./img/office.png" alt="Suite office">
-    <img src="./img/atom.png" alt="IDE atom">
-    <img src="./img/vscode.png" alt="IDE vscode">
-    <img src="./img/html5.png" alt="HTML5">
-    <img src="./img/css3.png" alt="CSS3">
-    <img src="./img/js.png" alt="JavaScript">
-    <img src="./img/mysql.png" alt="MySql">
-    <img src="./img/php.png" alt="PHP">
-    <img src="./img/sage.png" alt="Sage (compatbilité)">
-</p>
+   
+
 
 ---
 
