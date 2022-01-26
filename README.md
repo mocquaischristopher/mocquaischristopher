@@ -1,10 +1,7 @@
 # Welcome in my github page 👋
 
-<p>
-Hello there.
-My name is Christopher, i am 34 years.
-i am a young developer and i was a formation of CDA at Valenciennes.
-</p>
+<h1 align="center">Hi 👋, I'm My name is Christopher, i am 34 years. i am a young developer and i was a formation of CDA at Valenciennes.</h1>
+<h3 align="center">A passionate frontend developer from French</h3>
 
 ---
 
