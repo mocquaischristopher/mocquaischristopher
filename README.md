@@ -4,7 +4,11 @@
 <h3 align="center">A passionate frontend developer from French</h3>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocquaischristopher&show_icons=true&locale=en&layout=compact" alt="mocquaischristopher" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&show_icons=true&locale=en" alt="mocquaischristopher" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocquaischristopher&" alt="mocquaischristopher" /></p>
 <div>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&scount_private=true&include_all_commits=true&theme=blue-green&show_icons=true" alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocquaischristopher&langs_count=8&theme=blue-green&layout=compact" alt="Github Stats Langues" />
