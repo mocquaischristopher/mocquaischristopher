@@ -5,12 +5,12 @@
 
 ---
 
-<p></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocquaischristopher&" alt="mocquaischristopher" /></p>
 <div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&show_icons=true&locale=en&theme=blue-green" alt="Github_Stats_mocquaischristopher" />
-<img  src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&scount_private=true&include_all_commits=true&theme=blue-green&show_icons=true" 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&scount_private=true&include_all_commits=true&theme=blue-green&show_icons=true"  />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocquaischristopher&langs_count=8&theme=blue-green&layout=compact" alt="Github Stats Langues" />
 </div>
 
