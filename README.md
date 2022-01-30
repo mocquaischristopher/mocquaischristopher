@@ -7,7 +7,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocquaischristopher&" alt="mocquaischristopher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocquaischristopher&theme=blue-green" alt="mocquaischristopher" /></p>
 <div>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mocquaischristopher&scount_private=true&include_all_commits=true&theme=blue-green&show_icons=true"  />
