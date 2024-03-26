@@ -1,7 +1,7 @@
 # Welcome to my github page 👋
 
 <h1 align="center">Hello 👋, This is Christopher. I am a young developer from Valenciennes, France.</h1>
-<h2 align="center">A passionate frontend developer from France.</h2>
+<h2 align="center">A passionate frontend and backend developer from France.</h2>
 
 ---
 
